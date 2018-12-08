@@ -1,4 +1,8 @@
 #Hidden gems
+//for spring cloud config, eureka.
 
-https://blog.asarkar.org/technical/netflix-eureka/
+https://blog.asarkar.org/tags/#microservice
 
+#for sping cloud config for Git. and pulling changes dynamically
+
+https://dzone.com/articles/spring-cloud-config-series-part-2-git-backend
